@@ -10,8 +10,7 @@ Frontend: HTML5, CSS3, JavaScript
 API: OpenWeatherMap API
 Project Structure
 arduino
-Copy code
-.
+Copy code.
 ├── index.html
 ├── style.css
 ├── images
