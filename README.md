@@ -18,7 +18,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/weather-app.git](https://github.com/ravisankaradimula/Weather.git
+git clone https://github.com/ravisankaradimula/Weather.git
 cd weather-app
 Open index.html
 Open the index.html file in a web browser. This can be done by double-clicking the file or using a browser's "Open File" option.
