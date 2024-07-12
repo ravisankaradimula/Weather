@@ -8,21 +8,7 @@ Error Handling: Informs users when an invalid city name is entered.
 Technologies Used
 Frontend: HTML5, CSS3, JavaScript
 API: OpenWeatherMap API
-Project Structure
-arduino
-Copy code.
-├── index.html
-├── style.css
-├── images
-│   ├── search.png
-│   ├── rain.png
-│   ├── clouds.png
-│   ├── clear.png
-│   ├── drizzle.png
-│   ├── mist.png
-│   ├── humidity.png
-│   └── wind.png
-└── README.md
+
 Setup and Usage
 Prerequisites
 Modern web browser (Chrome, Firefox, Edge, etc.)
